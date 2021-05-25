@@ -1,8 +1,6 @@
 Hi, I'm Minhal 👋🏽
 
-I’m a software developer, designer and tinkerer. I hold a Computer Science degree from The University of Birmingham.
-
-🐦 I’m currently working on Magpie; an industry-leading market intelligence engine.
+I’m a software developer, designer and tinkerer. I'm finishing off my MSci in Computer Science at The University of Birmingham.
 
 🤓 I’m currently learning Kubernetes and React JS.
 
