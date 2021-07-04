@@ -1,6 +1,6 @@
 Hi, I'm Minhal 👋🏽
 
-I’m a software developer, designer and tinkerer. I'm finishing off my MSci in Computer Science at The University of Birmingham.
+I’m a software developer, designer and tinkerer. First class MSCi Graduate at The University of Birmingham in Computer Science. 
 
 🤓 I’m currently learning Kubernetes and React JS.
 
